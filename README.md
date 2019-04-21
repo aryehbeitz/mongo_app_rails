@@ -1,5 +1,15 @@
 # Rails with Mongo Db
 
+## to begin
+
+```
+rvm use 2.5.1
+bundle install
+rails s
+```
+
+navigate to [localhost:3000/articles](http://localhost:3000/articles) to see the magic
+
 ## setup notes
 
 ```
